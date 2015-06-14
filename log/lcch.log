@@ -1,0 +1,7 @@
+2015-06-14 12:48:02,901 [main] (LoggerTestExample: 21) DEBUG - This is a debug message
+;2015-06-14 12:48:02,914 [main] (LoggerTestExample: 30) ERROR - This is an exception
+;java.lang.Exception: My Exception
+	at LoggerTestExample.myMethod(LoggerTestExample.java:28)
+	at LoggerTestExample.main(LoggerTestExample.java:22)
+2015-06-14 12:48:02,976 [main] (LoggerTestExample: 23)  INFO - This is an info message
+;
